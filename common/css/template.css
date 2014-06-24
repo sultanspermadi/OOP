@@ -1,0 +1,68 @@
+body
+{
+	background : #f3f3f3;
+}
+
+.container
+{
+	width : auto;
+}
+
+.boxDashboard
+{
+	padding : 40px 20px;
+	text-align: center;
+	border : 1px solid #ccc;
+}
+
+.header
+{
+	background : #d9534f;
+	color :#fff;
+}
+
+.logo
+{
+	padding : 10px;
+	padding-right : 40px;
+}
+
+.navigation
+{
+	padding : 10px;
+}
+
+.header .nav, .header .nav a, .header .nav .dropdown, .logo a
+{
+	color : #fff;
+}
+
+.header .nav a:hover, .header .dropdown-menu a
+{
+	color : #000;
+}
+
+.boxContent
+{
+	background :#fff;
+	padding : 15px;
+	margin : 10px 0px;
+}
+
+.footer
+{
+
+}
+
+.boxlogin
+{
+	text-align: center;
+	width : 35%;
+	padding : 5%;
+	margin : 8%;
+}
+
+.boxlogin input
+{
+	margin : 10px 0px;
+}
